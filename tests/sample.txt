@@ -1,0 +1,10 @@
+This is a sample text file for testing our word counter.
+It contains multiple lines with different types of content.
+
+Some lines have    extra    spaces.
+Others have punctuation marks: commas, periods, and exclamation points!
+
+Numbers like 123 and 456 should be counted as words.
+Special characters like @#$% might appear too.
+
+This file helps us verify that our word counter works correctly.
